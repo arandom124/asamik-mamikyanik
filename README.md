@@ -1,6 +1,6 @@
-# iRestaurant
+# Mamik Yanik asamik
 
-Fronted for iRestaurant application.
+Fronted for mamik Yanik application.
 
 ## Development instructions
 
@@ -10,7 +10,7 @@ Install dependencies:
 $ yarn install
 ```
 
-To work properly you must first run the [backend application](https://github.com/cmoralesmani/django_irestaurant).
+To work properly you must first run the [backend application](https://github.com/).
 
 Run application:
 
