@@ -1,4 +1,4 @@
-export const BASE_API = "https://ec52-190-27-248-156.ngrok-free.app -> http://localhost:8000";
+export const BASE_API = "https://ec52-190-27-248-156.ngrok-free.app";
 export const TOKEN = "token";
 
 export const ORDER_STATUS = {
